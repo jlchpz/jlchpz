@@ -1,6 +1,4 @@
 ### Hola 👋, me llamo Jose
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 He realizado funciones de todo tipo. La mayor parte de mi vida laboral ha sido dando soporte a empresas y particulares tanto a nivel de software como a nivel de hardware.
 Además, también me adentré en la implantación de ERP. Más concretamente en Sage 200. Desde mediados de 2015 me centré su programación.
